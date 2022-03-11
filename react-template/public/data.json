@@ -1,0 +1,86 @@
+{
+    "title": "Living the simple life",
+    "subtitle": "a blog exploring minimalism in life",
+    "homearticle1": {
+        "title": "Finding simplicity in life",
+        "image": "/img/life.jpg",
+        "url": "https://www.github.com/jerrellbryant",
+        "alt": "Clock plant and lamp on a desk",
+        "info": "Feburary 21, 2022",
+        "body": " , but it doesn't have to be! There are many ways to simplify your life, ",
+        "link": "a few of which we've explored in the past",  
+        "bodycont": ". This week we're taking a bit of a approach though, in how you can find simplicity in the life you already living.",
+        "strong": "Life can get complicated really quickly",
+        "anchor": "Continue Reading",
+        "comments": "3 comments"
+    },
+    "homearticle2": {
+        "title": "Keeping cooking simple",
+        "body": "\n Food is a very important part of everyone's life.\n If you want to be healthy, you have to eat healthy.\n One of the easiest ways to do that is to keep your cooking nice and simple.",
+        "anchor": "Continue Reading",
+        "image": "img/food.jpg",
+        "alt": "dumplings with chop sticks",
+        "info": "July 12, 2021",
+        "comments": "5 comments"
+    },
+    "homearticle3": {
+        "title": "Simple decoractions",
+        "body": "\n A home isn't a home until you've decorated a little.\n People either don't decorate, or they go overboard and it doesn't have the impact they were hoping for. \n Staying simple will help draw the eye where you want it to and make things pop like never before.",
+        "anchor": "Continue Reading",
+        "image": "img/deco.jpg",
+        "alt": "plant in water bowl",
+        "info": "June 15, 2021",
+        "comments": "9 comments"
+    },
+    "homearticle4": {
+        "title": "Simplicity and work",
+        "body": "\n Work is often a major source of stress. People get frustrated,it ruins their relationship with others and it leads to burnout. \n By keeping your work life as simple as possible, it will help balance everything out.\n ",
+        "anchor": "Continue Reading",
+        "image": "img/work.jpg",
+        "alt": "desk chair with a white table",
+        "info": "May 7, 2021",
+        "comments": "6 comments"
+    },
+    "about":{
+        "title":"My name is Jerrell and living the simple life saved my life",
+        "strong":"I use to be 'spend-a-holic'",
+        "body": ". I would purchase so many things that I thought that I loved, but the truth was I couldn't even appreciate any of it because there was too much. Things were terrible, my priorities I had none! I was spending money that should have been invested in assests, but i was purchasing junk all while still living at home with my parents. Life wasn't good for me then."
+    },
+    "abouttopic1":{
+        "subtitle":"How I turned things around",
+        "strong": "I was on the verge of a breakdown",
+        "body": ". I literally sold 90% of my possessions and moved into a small apartment. It wasn't easy at all, but everything around me was in such a place, I didn't know what else to do. Yet, it worked."
+    },
+    "abouttopic2":{
+        "subtitle": "Now I live the simple life",
+        "strong":  "I felt like I had no choice but to start sharing how I did it, ",
+        "body": "Now that I'm living a simple life, things are so much better. I'm less stressed, enjoying life and my family more,and I have more free time and gained financial literacy. With how much it turned my life around, ",
+        "bodycont": " and how others can benefit from living a simple life as well, which is why I started this site!" 
+    },
+    "widget": { 
+        "title":"About Me",
+        "subtitle": "Recent Posts",
+        "image": "img/about-me.jpg",
+        "alt": "author smiling",
+        "body": "I find life better, and I'm happier, when things are nice and simple."
+    },
+    "widgetpost1": {
+        "title": "Keeping cooking simple",
+        "image": "img/food.jpg",
+        "alt": "dumplings with chop sticks"
+    },
+    "widgetpost2": {
+        "title": "Simplicity and work",
+        "image": "img/work.jpg",
+        "alt": "dumplings with chop sticks"
+    },
+    "widgetpost3": {
+        "title": "Simple decorations",
+        "alt": "plant in water bowl",
+        "image": "img/deco.jpg"
+    },
+    "footer": {
+        "website": "Living the Simple Life",
+        "copyright": "Copyright 2022"
+    }
+}
